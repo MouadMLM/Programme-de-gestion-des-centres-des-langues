@@ -2,7 +2,7 @@
 Ce programme facilite la gestion des inscriptions et du suivi des étudiants dans un centre de langues. Il permet d'ajouter et de supprimer automatiquement des cases à cocher dans Excel en fonction des données saisies.
 
 🛠 Utilisation
-
+ 
   Activer les Macros d'abord : Comment Activer les  Macros :  https://drive.google.com/file/d/1pzUAzpxp7M-LXpE8xpBw1aQ_Jjyd_bmp/view?usp=sharing
   
   Ouvrir le fichier Excel contenant le programme.
