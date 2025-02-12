@@ -7,7 +7,7 @@ Ce programme facilite la gestion des inscriptions et du suivi des étudiants dan
   
   Drive : https://shorturl.at/aaHOQ
   
-  Ouvrir le fichier Excel contenant le programme.
+ ⚠️ Ouvrir le fichier Excel contenant le programme avec Microsoft Excel et pas d'autres logiciel .
   
   Le programme met à jour automatiquement le suivi en fonction des inscriptions.
   
