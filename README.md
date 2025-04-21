@@ -3,7 +3,7 @@ Ce programme facilite la gestion des inscriptions et du suivi des étudiants dan
 
 🛠 Utilisation
  
-  Activer les Macros d'abord : Comment Activer les  Macros :  https://shorturl.at/7iDyz
+  Activer les Macros d'abord en démarrant le fichier Enable_MACROS.bat
   
   Drive : https://shorturl.at/aaHOQ
   
